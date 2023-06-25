@@ -16,9 +16,9 @@ This paper focuses on a multi-agent zeroth-order online optimization problem in 
 A. Download our repo.
 
 ```
-git clone https://github.com/Sunses-hub/EF_ZO_SGD.git
+git clone https://github.com/Sunses-hub/FED-EF-ZO-SGD.git
 ```
-B. Go to EF_ZO_SGD directory to run the experiments. 
+B. Go to FED_EF_ZO_SGD directory to run the experiments. 
 ```
 custom_exp.py can be used to run the experiments. 
 
